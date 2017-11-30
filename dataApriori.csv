@@ -1,0 +1,546 @@
+educationLevel,Gender,nativeCounty,Age,Race,County
+11,Male,Guanajuato,47,Hispanic,Hidalgo
+8,Male,Harris,38,White,Bee
+10,Male,Bexar,46,Black,Bexar
+12,Male,Dallas,43,Black,Dallas
+12,Male,Harris County,48,White,Tarrant
+9,Male,Summit,58,White,Houston
+8,Male,Dawson,38,Hispanic,Hidalgo
+NA,Male,Hunt County,33,White,Hunt
+8,Male,Harris,58,White,Harris
+12,Male,Wharton County,35,White,Wharton
+6,Male,Harris,43,White,Harris
+9,Male,Grimes,36,Black,Madison
+8,Male,Dallas,33,Hispanic,Dallas
+8,Male,Harris,35,Hispanic,Harris
+10,Male,Nueces County,27,Hispanic,Nueces
+11,Male,Smith,46,Black,Smith
+11,Male,Harris,32,Black,Harris
+10,Male,Bexar,34,Hispanic,Bexar
+12,Male,Boone,42,White,Ellis
+8,Male,Jerome,46,Hispanic,Bexar
+6,Male,Bernalillo,53,White,Dallas
+10,Male,Dallas,57,Black,Smith
+8,Male,Cook,32,Hispanic,Bexar
+10,Female,Tarrant,38,Black,Tarrant
+9,Male,Nueces,39,Hispanic,Nueces
+4,Male,Tamaulipas,44,Hispanic,Kerr
+8,Male,Alameda,49,White,Val Verde
+10,Male,Dallas,29,Black,Dallas
+8,Male,Netherlands,33,Black,Bexar
+12,Female,Albany,59,White,Harris
+10,Male,Collin,43,White,Leon
+12,Male,Lubbock,43,White,Lubbock
+7,Male,Hidalgo,37,Hispanic,Hidalgo
+8,Male,Hidalgo Co.,30,Hispanic,Hidalgo
+12,Male,Dallas,55,White,Dallas
+12,Male,Saint Louis,41,Black,Lubbock
+8,Male,Calhoun,36,Hispanic,Victoria
+12,Female,Hunt,52,Black,Dallas
+12,Male,Jefferson,43,Black,Jefferson
+12,Male,Harris,37,Black,Harris
+3,Male,McLennan,35,Black,McLennan
+11,Male,Smith,29,White,Cherokee
+9,Male,Dallas,40,Black,Navarro
+9,Male,Bexar,41,Hispanic,Bexar
+12,Male,Los Angeles,33,Black,Gregg
+11,Male,Natchitoches Parish,41,White,Polk
+11,Male,Montgomery,44,Black,Montgomery
+12,Male,Henderson,48,White,Tarrant
+9,Male,Dallas,40,Black,Dallas
+10,Male,Dallas,33,Black,Dallas
+10,Male,Cherokee,29,Black,Cherokee
+10,Male,Dallas,47,Hispanic,Dallas
+9,Male,Fort Knox,52,White,Montgomery
+12,Male,El Paso,41,Hispanic,Dallas
+10,Male,Zavala,38,Hispanic,Bexar
+10,Male,Bexar,46,Hispanic,Bexar
+12,Male,Bexar,39,Hispanic,Bexar
+11,Male,Lamar,44,White,Brazos
+10,Male,Wayne,31,White,Denton
+8,Male,Nueces,33,Hispanic,Nueces
+8,Male,Dallas,42,White,Dallas
+8,Male,Harris,32,Black,Fort Bend
+9,Male,Galveston,32,White,Bowie
+10,Male,Dallas,46,White,Tarrant
+12,Male,Harris,42,Black,Harris
+9,Male,Dallas,31,White,Tarrant
+12,Male,Lamar,51,Black,Lamar
+11,Male,Harris,42,Black,Harris
+12,Male,Harris,28,White,Montgomery
+8,Male,Val Verde,37,Hispanic,Bee
+6,Male,Onondaga,41,White,Hunt
+6,Male,Kalamazoo,41,White,Hunt
+10,Male,Wharton,40,Hispanic,Fort Bend
+10,Male,Schwavish Hall,31,White,El Paso
+10,Male,Harris,34,Black,Harris
+10,Male,Marion,31,White,Bexar
+10,Male,Tarrant,32,Hispanic,Collin
+12,Male,Flint,51,Black,Dallas
+7,Male,Tarrant,44,White,Llano
+10,Male,Harris,34,Black,Harris
+11,Male,Anderson,30,Black,Anderson
+8,Male,Habana,34,Hispanic,Harris
+12,Male,Harris,32,White,Nacogdoches
+10,Male,Alameda,28,Black,Bexar
+11,Male,Harris,37,Black,Harris
+9,Male,Tarrant,34,White,Tarrant
+9,Male,Dallas,28,Black,Dallas
+10,Male,Kit Carson,35,Hispanic,Lubbock
+11,Male,Eastland,38,Hispanic,Bexar
+11,Male,Tarrant,34,Hispanic,Tarrant
+12,Male,Ouachita Parish,35,Black,Tarrant
+11,Male,El Paso,46,Hispanic,El Paso
+11,Male,Harris,41,Hispanic,Brazoria
+7,Male,Woodruff,53,Black,Tarrant
+12,Male,Tarrant,40,Black,Tarrant
+12,Male,Dallas,45,Black,Dallas
+12,Male,New York,42,Black,Bell
+11,Male,Knox,42,White,Dallas
+12,Male,Douglas,29,White,Hopkins
+9,Male,Santa Clara,27,Black,Bexar
+7,Male,Dallas,39,White,Kaufman
+12,Male,Bexar,40,Hispanic,Dallas
+12,Male,Dallas,32,Black,Dallas
+11,Male,San Pedrosula,29,Hispanic,Tarrant
+9,Male,Parmer,40,Black,Potter
+9,Male,Salt Lake,29,Black,Dallas
+12,Male,Oklahoma,37,White,Dallas
+8,Male,Bexar,32,White,Bexar
+10,Male,Greenville,30,White,Potter
+10,Male,Caddo Parish,32,Black,Harris
+11,Male,Matagorda,27,Black,Matagorda
+11,Male,Bailey,33,Hispanic,Bailey
+7,Male,Little Rock,30,White,Potter
+9,Male,Caddo Parish,38,White,Denton
+8,Male,Bexar,28,Hispanic,Bexar
+10,Male,Dallas,42,Black,Dallas
+9,Male,Bexar,48,Hispanic,Dallas
+8,Male,Dallas,30,White,Smith
+12,Male,Harris,47,Black,Harris
+10,Male,Dallas,31,White,Denton
+11,Male,Manhattan,36,Hispanic,Williamson
+9,Male,Dallas,29,Black,Refugio
+12,Male,Dallas,27,Black,Smith
+5,Male,Bexar,43,Hispanic,Bexar
+12,Male,Detroit,41,Black,Bowie
+7,Male,Durango,45,Hispanic,Harris
+10,Male,Tarrant,28,Black,Tarrant
+10,Male,San Patricio,27,Black,Refugio
+9,Male,Lubbock,27,Hispanic,Lubbock
+12,Male,Dallas,31,Black,Dallas
+11,Male,Tarrant,31,White,Tarrant
+9,Male,Harris,50,White,Harris
+9,Male,Howard,55,White,Pecos
+12,Male,Tom Green,42,Hispanic,Tom Green
+11,Male,Austin,29,Hispanic,Travis
+8,Male,Harris,28,Hispanic,Harris
+9,Male,Harris,43,White,Polk
+7,Male,Tarrant,33,White,Bowie
+11,Male,Harris,30,Black,Harris
+NA,Male,New Orleans,47,White,Liberty
+9,Male,Harris,29,Black,Harris
+11,Male,Dallas,27,Black,Brazos
+12,Male,Howell,54,White,Montgomery
+12,Male,Portsmouth,43,Black,Bell
+12,Male,Harris,35,Black,Harris
+10,Male,Harris,33,Black,Harris
+9,Male,Nueces,30,Hispanic,Nueces
+10,Male,Wise,40,Hispanic,Kerr
+12,Male,Juarez,31,Hispanic,Collin
+12,Male,Baldwin,47,White,Matagorda
+12,Male,Lafayette,26,White,Tarrant
+12,Male,Brunswick,32,White,Clay
+9,Male,Bexar,26,Hispanic,Bexar
+NA,Male,NA,29,Black,Brazoria
+NA,Male,NA,37,Black,Harris
+NA,Male,NA,38,Black,Harris
+NA,Male,NA,45,White,Brazos
+NA,Male,NA,39,Hispanic,Harris
+NA,Male,NA,54,White,Cameron
+NA,Male,NA,38,Black,Jefferson
+9,Male,El Paso,44,Hispanic,El Paso
+NA,Male,NA,25,Hispanic,Nueces
+NA,Male,NA,37,White,Galveston
+NA,Male,NA,37,White,Harris
+NA,Male,NA,50,Hispanic,Harris
+6,Male,Potter,29,White,Jefferson
+12,Male,Tarrant,40,Black,Tarrant
+9,Male,Tarrant,61,White,Tarrant
+10,Male,Bexar,44,Hispanic,Bexar
+NA,Male,Harris,43,Hispanic,Collin
+16,Male,Kansas City,67,White,Grayson
+NA,Male,Portales,42,Hispanic,Bexar
+9,Male,Harris,45,Black,Harris
+NA,Male,Mexico,46,Hispanic,Harris
+9,Male,Dallas,49,White,Harris
+9,Male,Smith,50,Black,Smith
+8,Male,Brazos,48,Black,Brazos
+12,Male,Erie,46,Black,Harris
+9,Male,Dallas,40,White,Dallas
+11,Male,Jefferson,54,Black,Jefferson
+12,Male,Monterrey,38,Hispanic,Bexar
+8,Male,Dallas,42,Black,Dallas
+18,Male,NA,35,Hispanic,Harris
+16,Male,Brazos,59,White,Travis
+11,Male,Dallas,36,Black,Dallas
+10,Male,Bastrop,54,Hispanic,Collin
+8,Male,St.Louis,59,White,Walker
+10,Male,Harris,52,White,Harris
+10,Male,Dallas,51,Black,Wood
+9,Male,Harris,38,Black,Harris
+11,Male,McCurtain,34,Black,Red River
+10,Male,Travis,51,Black,Harris
+9,Male,Hidalgo,36,Hispanic,Bexar
+11,Male,Hot Springs,49,Black,Bexar
+11,Male,Harris,36,Black,Harris
+5,Male,Milwaukee,46,Black,Tarrant
+12,Male,Olean,45,White,Harris
+11,Male,Culberson,57,White,Gregg
+9,Male,Mexico,33,Hispanic,Harris
+11,Male,Sulfer,40,Black,Harris
+9,Male,Waller,48,Black,Harris
+11,Male,Bexar,32,Hispanic,Bexar
+12,Male,Gregg,32,Black,Gregg
+11,Male,Harris,44,Black,Harris
+9,Male,Potter,39,White,Randall
+NA,Male,Fort Bend,36,Hispanic,Harris
+12,Male,Los Angeles,56,White,Harris
+10,Male,San Bernardino,41,White,Pecos
+12,Male,Harris,51,White,Harris
+11,Male,Galveston,45,Black,Harris
+11,Male,Harris,44,White,Harris
+12,Male,Fort Walton Beach,32,White,Bexar
+10,Male,Harris,30,Black,Harris
+8,Male,Harris,33,Black,Harris
+11,Male,Callahan,48,White,Denton
+12,Male,Harris,43,Black,Harris
+12,Male,Great Lakes,40,White,Potter
+10,Male,Bexar Country,31,Black,Bexar
+9,Male,Harris,31,Black,Harris
+8,Male,Denver,34,White,Randall
+11,Male,Cameron,42,Hispanic,Cameron
+12,Male,Lubbock,39,White,Dallas
+12,Male,Harris,38,Black,Harris
+9,Male,Detroit,32,Black,Harris
+8,Male,Harris,34,Hispanic,Harris
+10,Male,Tuscaloosa,33,Black,Harris
+13,Male,Harris,34,Black,Harris
+8,Male,Loraine,37,White,Harris
+7,Male,Harris,32,Black,Travis
+12,Male,Harris,40,Black,Harris
+12,Male,Howard,30,White,Galveston
+12,Male,Hill,38,Black,Navarro
+12,Male,Chicago,31,White,Nueces
+12,Male,Terribone Parish,44,Black,Jefferson
+12,Male,Harris,42,White,Kendall
+12,Male,Harris,49,White,Dallas
+9,Male,Denver,41,White,Atascosa
+11,Male,Nurenburg,38,White,Nueces
+12,Male,Harris,30,Hispanic,Harris
+12,Male,Luarel,30,Black,Harris
+10,Male,Nacogdoches,52,Black,Harris
+12,Male,Harris,30,Black,Harris
+10,Male,Navarro,53,White,Dallas
+10,Male,Oklahoma Co.,39,White,Kerr
+9,Male,Cook,42,Hispanic,Harris
+9,Male,Essex,30,Black,Harris
+10,Male,Bexar,32,Hispanic,Bexar
+12,Male,El Paso,41,Black,Tarrant
+11,Male,Smith,28,White,Cherokee
+9,Male,Jefferson,43,White,Jefferson
+NA,Male,Anderson,50,Black,Anderson
+10,Male,Carter,36,White,Navarro
+11,Male,Lea,36,Black,Johnson
+10,Male,Cook,46,Black,Tarrant
+6,Male,Hunt,58,White,Lamar
+6,Male,Lafayette Parish,42,White,Jefferson
+11,Male,Colin,32,Black,Collin
+12,Male,Grayson,38,White,Grayson
+12,Male,Cameron,61,White,Harris
+14,Male,Potter,41,White,San Patricio
+12,Male,Colorado,53,White,Harris
+9,Male,Tarrant,29,Black,Tarrant
+15,Male,Jefferson,64,White,Montgomery
+12,Male,Bexar,38,Black,Bexar
+10,Male,Monterrey,56,White,Dallas
+10,Male,Wilbarger,48,White,Wilbarger
+8,Male,Allen(Fort Wayne),34,Hispanic,Dallas
+9,Male,Harris,43,White,Montgomery
+9,Male,Navarro,41,White,Anderson
+10,Male,Gregg,28,Black,Smith
+9,Male,NA,42,Hispanic,Travis
+8,Male,Hutchinson,33,White,Potter
+12,Male,Fairfax,40,White,Jefferson
+9,Male,Travis,32,Black,Travis
+11,Male,Hidalgo,37,White,Hidalgo
+8,Male,Alburquerque,31,White,Comal
+7,Male,Wichita,55,White,Wichita
+11,Male,Victoria,52,Hispanic,Johnson
+11,Male,Tarrant,66,White,Tarrant
+15,Male,NA,47,White,Harris
+NA,Male,Sabine,56,White,Newton
+9,Male,Dallas,48,Black,Jefferson
+NA,Male,Harris,42,White,Harris
+16,Male,Potter,30,White,Brazos
+10,Male,Los Angeles,44,White,Dallas
+9,Male,Dallas,36,Black,Morris
+10,Male,Dallas,24,Black,Dallas
+9,Male,Harris,38,White,Brazoria
+10,Male,Piedras Negras,33,Hispanic,Dallas
+8,Male,Gregg,25,Black,Gregg
+12,Male,Harris,59,White,Montgomery
+9,Male,Harris,30,Black,Harris
+14,Male,Providence,34,White,Harris
+11,Male,Jacksonville,27,White,Gillespie
+14,Male,Paris,35,White,Brazos
+12,Male,Houston,25,Black,Smith
+11,Male,Kleburg,29,Hispanic,Nueces
+11,Male,Harris,32,White,Liberty
+11,Male,Tarrant,28,Black,Red River
+7,Male,Bexar,54,Hispanic,Comal
+11,Male,Montgomery,47,White,Montgomery
+12,Male,Bowie,43,Black,Bowie
+9,Male,McLennan,29,Black,McLennan
+13,Male,Jefferson,35,White,Anderson
+10,Male,Dallas,48,White,Randall
+7,Male,Jefferson,41,Black,Jefferson
+12,Male,St.Louis,43,Black,Nueces
+8,Male,Onondaga,31,White,Coryell
+9,Male,Harris,37,Black,Dallas
+11,Male,Dallas,31,Black,Dallas
+10,Male,Tarrant,41,White,Parker
+10,Male,Nueces,33,Black,Harris
+8,Male,Etawah,50,White,Galveston
+9,Male,Tarboro,39,White,Nueces
+7,Male,Tarrant,47,White,Lubbock
+10,Male,San Diego,39,White,Smith
+14,Male,Oklahoma Co.,46,Black,Bexar
+11,Male,Erath,57,White,Tarrant
+8,Male,Tarrant,31,Black,Tarrant
+8,Male,Hopkins,28,White,Ellis
+10,Male,Harris,55,White,Montgomery
+7,Male,Lubbock,50,Hispanic,Lubbock
+11,Male,Travis,52,Black,Bexar
+10,Male,Bula,37,White,Montgomery
+10,Male,Miller,37,White,Lubbock
+9,Male,Harris,60,White,San Jacinto
+14,Male,Perry,50,White,Dallas
+12,Male,Scurry,33,White,Jones
+10,Male,Pageland,32,Black,Smith
+10,Male,Dallas,31,Black,Smith
+12,Male,Chippewa,27,White,Wichita
+11,Male,Brown,43,White,Brown
+12,Male,Cook,37,Black,Dallas
+10,Male,NA,39,White,Montgomery
+12,Male,Tarrant,40,White,Tarrant
+9,Male,Hays,53,Black,Bexar
+7,Male,Bexar,33,Hispanic,Bexar
+12,Male,Dallas,36,Black,Dallas
+9,Male,Stanton,33,Hispanic,Tarrant
+12,Male,Crisp,50,White,Lubbock
+10,Male,Pierce,28,Hispanic,Dallas
+9,Male,Harris,39,Black,Harris
+NA,Male,NA,32,Hispanic,Hale
+9,Male,McLennan,44,Black,McLennan
+9,Male,Red River,48,White,Smith
+12,Male,Grimes,34,Black,Bastrop
+14,Male,Kings,33,Black,Taylor
+11,Male,Commanche,47,White,Parker
+11,Male,Tarrant,32,Black,Navarro
+12,Male,Kings,38,White,Lubbock
+8,Male,McLaine,37,White,Taylor
+14,Male,Gonzalez,43,Black,Williamson
+11,Male,Cook,36,White,Galveston
+11,Male,Harris,28,Black,Harris
+11,Male,Wichita,31,Black,Lubbock
+10,Male,NA,62,White,Henderson
+11,Male,Dallas,38,Black,Dallas
+8,Male,Jefferson,39,White,Henderson
+10,Male,Harris,27,Black,Montgomery
+13,Male,Taylor,42,White,Tarrant
+11,Male,Freestone,38,Black,Freestone
+12.5,Male,Germany,31,White,Fort Bend
+11,Male,Jefferson,48,White,Sabine
+7,Male,Williamson,54,Black,Harris
+11,Male,Seattle,30,White,Dallas
+15,Male,Rantoul,42,White,Trinity
+13,Male,Tom Green,46,White,Dallas
+8,Male,Deaf Smith,39,Hispanic,Brazos
+11,Male,Santa Clara,42,White,Hunt
+9,Male,Tarrant,28,Black,Tarrant
+NA,Male,Dallas,31,Hispanic,Dallas
+7,Male,Haskell,51,White,Upshur
+8,Male,Ochiltree,41,White,Denton
+14,Male,Bowie,43,White,Harris
+7,Male,Harris,42,Black,Harris
+11,Male,Matagorda,51,Black,Harris
+8,Male,Jefferson,39,Black,Jefferson
+12,Male,Los Angeles,37,Hispanic,Tarrant
+7,Male,Walker,56,White,Lee
+9,Male,Douglas,39,Black,Harris
+12,Male,Dallas,39,Black,Dallas
+NA,Male,NA,41,White,Shelby
+11,Male,Lamar,35,Black,Grayson
+10,Male,Jefferson,35,White,Smith
+10,Male,Alberta,61,White,Gregg
+9,Male,Roofer,38,White,Liberty
+11,Male,McLennan,62,Black,McLennan
+10,Male,Nueces,31,Hispanic,Nueces
+10,Male,Shelby,61,White,Collin
+8,Male,Travis,44,Black,Travis
+14,Male,Bexar,38,Black,Bexar
+11,Male,Lubbock,30,Hispanic,Taylor
+12,Male,Los Angeles,43,White,Dallas
+6,Male,Bexar,39,Hispanic,Bexar
+3,Male,Caldwell,52,Hispanic,Caldwell
+12,Male,Tarrant,36,White,Tarrant
+12,Male,Marion,46,White,Taylor
+12,Male,Cuyahoga,42,Black,Harris
+8,Male,Hennepin,49,White,Brazos
+15,Male,Orange,40,White,Montgomery
+9,Male,Bell,52,White,Harris
+8,Male,Travis,37,White,Travis
+9,Male,Webb,41,Hispanic,Bexar
+9,Male,Cook,43,Hispanic,Hidalgo
+10,Male,Harris,35,White,Tarrant
+13,Male,Hidalgo,43,Hispanic,Dallas
+9,Male,Bexar,30,Hispanic,Bexar
+16,Male,San Bernardino,40,White,Dallas
+10,Male,Williamson,41,Hispanic,Williamson
+10,Male,Marion,34,Black,Harris
+10,Male,Washington D.C,34,White,Tarrant
+NA,Female,Barton,42,White,Victoria
+NA,Male,Bexar,38,White,Bexar
+10,Male,Bartholomem,47,White,Tarrant
+NA,Male,Harris,40,White,Harrison
+7,Male,Harris,38,White,Harris
+11,Male,Lucas,37,White,Bexar
+10,Male,Harris,35,Black,Harris
+13,Male,Eastland,43,White,Crockett
+11,Male,Bell,30,White,Dawson
+11,Male,NA,43,Other,Harris
+12,Male,Harris,34,Black,Harris
+8,Male,Tarrant,36,White,Tarrant
+11,Male,Eddy,41,Black,Bexar
+9,Male,Cobb,38,White,Bowie
+12,Male,Oceanside,45,White,Nueces
+11,Male,Harris,37,Black,Harris
+8,Male,Travis,34,Black,Travis
+8,Male,Duval,35,White,Harris
+5,Male,Tampico,29,Hispanic,Cameron
+11,Male,Cook,44,Black,Aransas
+8,Male,Potter,38,White,Hale
+14,Male,Clark Air Force Base,33,White,Tarrant
+11,Male,Cameron,32,Hispanic,Cameron
+11,Male,Colorado,30,Black,Scurry
+11,Male,Harris,34,Black,Harris
+10,Male,Oklahoma Co.,33,Black,Collin
+12,Male,Harris,33,White,Leon
+12,Male,FairField,47,White,Harris
+10,Male,Dallas,37,Black,Tarrant
+9,Male,El Paso,42,White,Tom Green
+12,Male,Mobile,39,White,Harris
+7,Male,Scurry,38,White,McLennan
+8,Male,Caddo Parish,36,Black,Harris
+9,Male,Brazos,33,Black,Walker
+7,Male,Leon,55,White,Navarro
+10,Male,Kiowa,53,White,Potter
+9,Male,Bartow,36,White,Denton
+10,Male,Waller,50,White,Harris
+9,Male,McLennan,40,White,McLennan
+14,Male,Orange,39,White,Tarrant
+8,Male,Pima,32,Black,Harris
+12,Male,Pierce,42,White,Kleberg
+11,Male,Potter,36,Hispanic,Potter
+12,Male,Tarrant,45,Black,Tarrant
+10,Male,Cuyahoga,38,White,Harris
+7,Male,Los Angeles,40,White,Harris
+9,Male,Pima,31,Hispanic,Hamilton
+7,Male,NA,40,Other,Jefferson
+11,Male,Dallas,33,Black,Dallas
+9,Male,Drew,50,White,Dallas
+8,Male,Polk,40,Black,Harris
+10,Male,Hays,40,Black,Bexar
+9,Male,Bexar,31,Black,Bexar
+8,Male,Dallas,41,Black,Dallas
+10,Male,NA,35,Black,Tarrant
+8,Male,Jefferson,34,White,Dallas
+15,Male,Galveston,42,White,Wilbarger
+12,Male,Jefferson,52,Black,Lubbock
+12,Male,Kaufman,52,White,Dallas
+9,Male,Milwaukee,29,White,Harris
+11,Male,Harris,38,Black,Harris
+7,Male,Taylor,38,White,Taylor
+6,Male,Williamson,36,Hispanic,Bexar
+12,Male,Poshmatah,44,White,Walker
+11,Male,Harris,53,White,Harris
+14,Male,Childress,48,Black,Harris
+11,Male,Fauquier,34,White,Galveston
+12,Male,Bexar,32,Black,Bexar
+20,Male,Okmulgee,47,White,Potter
+8,Male,Knox,29,Hispanic,Brazos
+10,Male,Rutland,35,White,Harris
+12,Male,Harris,38,White,Harris
+12,Male,Hamilton,33,White,Dallas
+9,Male,San Bernardino,46,Black,Harris
+12,Male,Harris,41,White,Harris
+5,Male,Alexander,39,White,Harris
+11,Male,Nueces,33,Black,Nueces
+12,Male,Bexar,51,White,Galveston
+7,Male,Erie,59,Black,Harris
+9,Male,Caddo Parish,34,White,Milam
+9,Male,Harris,33,Black,Harris
+9,Male,Jackson ,39,White,Chambers
+10,Male,Harris,29,Black,Harris
+11,Male,McLennan,34,Black,McLennan
+13,Male,Angelina,58,White,Jefferson
+13,Male,Kane,39,White,Navarro
+9,Male,Brazos,32,Black,Brazos
+8,Male,Brazos,31,Black,Brazos
+14,Male,Tarrant,46,White,Harris
+12,Male,Washtenaw,38,White,Harris
+11,Male,Hidalgo,45,Hispanic,Cameron
+12,Male,Harris,38,Black,Harris
+7,Male,NA,38,Hispanic,Dallas
+11,Male,NA,40,Hispanic,Harris
+9,Male,Bexar,37,Black,Harris
+NA,Male,NA,27,Hispanic,Cameron
+11,Male,Cameron,46,White,Brazoria
+11,Male,Holmes ,34,Black,Harris
+10,Male,Bexar,38,White,Harris
+10,Male,Warren,32,White,Brazos
+7,Male,Oklahoma Co.,28,White,Potter
+14,Male,Nacogdoches,49,White,Montgomery
+10,Male,Caddo Parish,42,Black,Fort Bend
+NA,Male,NA,59,Hispanic,Harris
+10,Male,Micker,38,Black,Harris
+8,Male,Hardin,33,White,Harris
+14,Male,Jefferson,37,Black,Harris
+6,Male,Jefferson,30,White,Jefferson
+9,Male,Harris,54,Black,Harris
+9,Male,Nueces,27,Hispanic,Nueces
+12,Male,Hamilton,44,White,Harris
+9,Male,Harris,40,White,Harris
+9,Male,Wharton,44,Black,Harris
+11,Male,Lafayette Parish,39,Black,Harris
+NA,Male,Martin,37,Black,Nueces
+NA,Male,Hardin,27,White,Hardin
+NA,Male,NA,34,White,Montgomery
+9,Male,Bexar,32,White,Bexar
+NA,Male,Leon,27,Black,Harris
+12,Male,Hidalgo,27,Hispanic,Fort Bend
+10,Male,Dallas,30,Black,Dallas
+9,Male,Dallas,30,Black,Dallas
+5,Male,Kerr,36,White,Tom Green
+NA,Male,Nueces,24,White,Nueces
+NA,Male,Harris,28,White,Harris
+NA,Male,Harris,30,White,Harris
+NA,Male,Potter,28,White,Potter
+NA,Male,Tarrant,43,Hispanic,Tarrant
+NA,Male,Tarrant,34,Black,Tarrant
+NA,Male,Bexar,24,Hispanic,Bexar
+NA,Male,NA,34,White,Jefferson
+NA,Male,NA,49,White,Lubbock
+NA,Male,Bell,39,White,Bell
+NA,Male,NA,39,White,Harris

@@ -1,0 +1,546 @@
+Execution,educationLevel,Gender,nativeCounty,nativeState,LastName,FirstName,TDCJ,Age,Date,Race,County
+545,11,Male,Guanajuato,Mexico,Cardenas,Ruben,999275,47,11/09/2017,Hispanic,Hidalgo
+544,8,Male,Harris,Texas,Pruett,Robert,999411,38,10/12/2017,White,Bee
+543,10,Male,Bexar,Texas,Preyor,Taichin,999494,46,7/27/2017,Black,Bexar
+540,12,Male,Dallas,Texas,Edwards,Terry,999463,43,1/26/2017,Black,Dallas
+539,12,Male,Harris County,Texas,Wilkins,Christopher,999533,48,01/11/2017,White,Tarrant
+538,9,Male,Summit,Ohio,Fuller,Barney,999481,58,10/05/2016,White,Houston
+537,8,Male,Dawson,Texas,Vasquez,Pablo,999297,38,04/06/2016,Hispanic,Hidalgo
+536,NA,Male,Hunt County,Texas,Ward,Adam,999525,33,03/22/2016,White,Hunt
+535,8,Male,Harris,Texas,Wesbrook,Coy,999281,58,03/09/2016,White,Harris
+533,12,Male,Wharton County,Texas,Freeman,James,999539,35,01/27/2016,White,Wharton
+532,6,Male,Harris,Texas,Masterson,Richard,999414,43,01/20/2016,White,Harris
+531,9,Male,Grimes,Texas,Holiday,Raphael,999419,36,11/18/2015,Black,Madison
+530,8,Male,Dallas,Texas,Escamilla,Licho,999432,33,10/14/2015,Hispanic,Dallas
+529,8,Male,Harris,Texas,Garcia,Juan,999360,35,10/6/2015,Hispanic,Harris
+528,10,Male,Nueces County,Texas,Lopez,Daniel,999555,27,08/12/2015,Hispanic,Nueces
+527,11,Male,Smith,Texas,Russeau,Gregory,999430,46,06/18/2015,Black,Smith
+525,11,Male,Harris,Texas,Charles,Derrick,999451,32,05/12/2015,Black,Harris
+524,10,Male,Bexar,Texas,Garza,Manuel,999434,34,04/15/2015,Hispanic,Bexar
+523,12,Male,Boone,Missouri,Sprouse,Kent,999471,42,04/09/2015,White,Ellis
+522,8,Male,Jerome,Idaho,Vasquez,Manuel,999336,46,03/12/2015,Hispanic,Bexar
+521,6,Male,Bernalillo,New Mexico,Newbury,Donald,999403,53,02/04/2015,White,Dallas
+520,10,Male,Dallas,Texas,Ladd,Robert,999237,57,01/29/2015,Black,Smith
+518,8,Male,Cook,Illinois,Paredes,Miguel,999400,32,10/28/2014,Hispanic,Bexar
+517,10,Female,Tarrant,Texas,Coleman,Lisa,999511,38,09/17/2014,Black,Tarrant
+515,9,Male,Nueces,Texas,Villegas,Jose,999417,39,04/16/2014,Hispanic,Nueces
+514,4,Male,Tamaulipas,Mexico,Hernandez,Ramiro,999342,44,04/09/2014,Hispanic,Kerr
+513,8,Male,Alameda,California,Sells,Tommy,999367,49,04/03/2014,White,Val Verde
+512,10,Male,Dallas,Texas,Doyle,Anthony,999478,29,03/27/2014,Black,Dallas
+511,8,Male,Netherlands,NA,Jasper,Ray,999341,33,03/19/2014,Black,Bexar
+510,12,Female,Albany,New York,Basso,Suzanne,999329,59,02/05/2014,White,Harris
+508,10,Male,Collin,Texas,Martin,Jerry,999552,43,12/03/2013,White,Leon
+506,12,Male,Lubbock,Texas,Yowell,Michael,999334,43,10/09/2013,White,Lubbock
+505,7,Male,Hidalgo,Texas,Diaz,Arturo,999345,37,09/26/2013,Hispanic,Hidalgo
+504,8,Male,Hidalgo Co.,Texas,Garza,Robert,999466,30,09/19/2013,Hispanic,Hidalgo
+503,12,Male,Dallas,Texas,Feldman,Douglas,999326,55,07/31/2013,White,Dallas
+502,12,Male,Saint Louis,Missouri,Ross,Vaughn,999429,41,07/18/2013,Black,Lubbock
+501,8,Male,Calhoun,Texas,Quintanilla,John,999491,36,07/16/2013,Hispanic,Victoria
+500,12,Female,Hunt,Texas,McCarthy,Kimberly,999287,52,06/26/2013,Black,Dallas
+499,12,Male,Jefferson,Texas,Chester,Elroy,999280,43,06/12/2013,Black,Jefferson
+498,12,Male,Harris,Texas,Williams,Jeffrey,999350,37,05/15/2013,Black,Harris
+497,3,Male,McLennan,Texas,Parr,Carroll,999479,35,05/07/2013,Black,McLennan
+496,11,Male,Smith,Texas,Cobb,Richard,999467,29,04/25/2013,White,Cherokee
+495,9,Male,Dallas,Texas,Threadgill,Ronnie,999424,40,04/16/2013,Black,Navarro
+491,9,Male,Bexar,Texas,Hernandez,Ramon,999431,41,11/14/2012,Hispanic,Bexar
+490,12,Male,Los Angeles,California,Swain,Mario,999475,33,11/08/2012,Black,Gregg
+489,11,Male,Natchitoches Parish,Louisiana,Roberts Jr.,Donnie,999487,41,10/31/2012,White,Polk
+487,11,Male,Montgomery,Texas,Green,Jonathan,999421,44,10/10/2012,Black,Montgomery
+486,12,Male,Henderson,Kentucky,Foster,Cleve,999470,48,09/25/2012,White,Tarrant
+485,9,Male,Dallas,Texas,Harris,Robert,999364,40,09/20/2012,Black,Dallas
+483,10,Male,Dallas,Texas,Hearn,Yokamon,999292,33,07/18/2012,Black,Dallas
+482,10,Male,Cherokee,Texas,Adams,Beunka,999486,29,04/26/2012,Black,Cherokee
+481,10,Male,Dallas,Texas,Hernandez,Jesse,999425,47,03/28/2012,Hispanic,Dallas
+480,9,Male,Fort Knox,Kentucky,Thurmond,Keith,999435,52,03/07/2012,White,Montgomery
+479,12,Male,El Paso,Texas,Rivas,George,999394,41,02/29/2012,Hispanic,Dallas
+478,10,Male,Zavala,Texas,Hernandez,Rodrigo,999474,38,01/26/2012,Hispanic,Bexar
+477,10,Male,Bexar,Texas,Esparza,Guadalupe,999385,46,11/16/2011,Hispanic,Bexar
+476,12,Male,Bexar,Texas,Garcia,Frank,999418,39,10/27/2011,Hispanic,Bexar
+475,11,Male,Lamar,Texas,Brewer,Lawrence,999327,44,09/21/2011,White,Brazos
+474,10,Male,Wayne,Michigan,Woods,Steven,999427,31,09/13/2011,White,Denton
+473,8,Male,Nueces,Texas,Robles,Martin,999457,33,08/10/2011,Hispanic,Nueces
+472,8,Male,Dallas,Texas,Stroman,Mark,999409,42,07/20/2011,White,Dallas
+470,8,Male,Harris,Texas,Mathis,Milton,999337,32,06/21/2011,Black,Fort Bend
+469,9,Male,Galveston,Texas,Taylor,Lee,999344,32,06/16/2011,White,Bowie
+467,10,Male,Dallas,Texas,Kerr,Cary,999449,46,05/03/2011,White,Tarrant
+466,12,Male,Harris,Texas,Adams,Timothy,999448,42,02/22/2011,Black,Harris
+465,9,Male,Dallas,Texas,Hall,Michael,999346,31,02/15/2011,White,Tarrant
+464,12,Male,Lamar,Texas,Wooten,Larry,999269,51,10/21/2010,Black,Lamar
+462,11,Male,Harris,Texas,Jackson,Derrick,999263,42,07/20/2010,Black,Harris
+461,12,Male,Harris,Texas,Perry,Michael,999444,28,07/01/2010,White,Montgomery
+457,8,Male,Val Verde,Texas,Cannady,Rogelio,999245,37,05/19/2010,Hispanic,Bee
+456,6,Male,Onondaga,New York,Galloway,Billy,999349,41,05/13/2010,White,Hunt
+455,6,Male,Kalamazoo,Michigan,Varga,Kevin,999368,41,05/12/2010,White,Hunt
+454,10,Male,Wharton,Texas,Bustamante,Samuel,999380,40,04/27/2010,Hispanic,Fort Bend
+453,10,Male,Schwavish Hall,Germany,Berkley,William,999422,31,04/22/2010,White,El Paso
+452,10,Male,Harris,Texas,Alix,Franklin,999286,34,03/30/2010,Black,Harris
+451,10,Male,Marion,Texas,Maxwell,Joshua,999408,31,03/11/2010,White,Bexar
+450,10,Male,Tarrant,Texas,Sigala,Michael,999397,32,03/02/2010,Hispanic,Collin
+448,12,Male,Flint,Michigan,Mosley,Kenneth,999243,51,01/07/2010,Black,Dallas
+447,7,Male,Tarrant,Texas,Woods,Bobby,999270,44,12/03/2009,White,Llano
+446,10,Male,Harris,Texas,Thompson,Robert,999276,34,11/19/2009,Black,Harris
+445,11,Male,Anderson,Texas,Simpson,Danielle,999370,30,11/18/2009,Black,Anderson
+444,8,Male,Habana,Cuba,Valle,Yosvanis,999384,34,11/10/2009,Hispanic,Harris
+443,12,Male,Harris,Texas,Oliver,Khristian,999301,32,11/05/2009,White,Nacogdoches
+442,10,Male,Alameda,California,Blanton,Reginald,999395,28,10/27/2009,Black,Bexar
+441,11,Male,Harris,Texas,Coleman,Christopher,999239,37,09/22/2009,Black,Harris
+439,9,Male,Tarrant,Texas,Hankins,Terry,999415,34,06/02/2009,White,Tarrant
+437,9,Male,Dallas,Texas,Johnson,Derrick,999339,28,04/30/2009,Black,Dallas
+436,10,Male,Kit Carson,Colorado,Rosales,Michael,999274,35,04/15/2009,Hispanic,Lubbock
+435,11,Male,Eastland,Texas,Salazar,Luis,999285,38,03/11/2009,Hispanic,Bexar
+434,11,Male,Tarrant,Texas,Martinez,James,999404,34,03/10/2009,Hispanic,Tarrant
+430,12,Male,Ouachita Parish,Louisiana,Scheanette,Dale,999440,35,02/10/2009,Black,Tarrant
+428,11,Male,El Paso,Texas,Ortiz,Ricardo,999320,46,01/29/2009,Hispanic,El Paso
+427,11,Male,Harris,Texas,Martinez,Virgil,999265,41,01/28/2009,Hispanic,Brazoria
+426,7,Male,Woodruff,Arkansas,Perkins,Reginald,999407,53,01/22/2009,Black,Tarrant
+424,12,Male,Tarrant,Texas,Moore,Curtis,999212,40,01/14/2009,Black,Tarrant
+423,12,Male,Dallas,Texas,Hudson,Robert,999353,45,11/20/2008,Black,Dallas
+422,12,Male,New York,New York,Manns,Denard,999405,42,11/13/2008,Black,Bell
+419,11,Male,Knox,Tennessee,Wright,Gregory,999253,42,10/30/2008,White,Dallas
+417,12,Male,Douglas,Oregon,Ries,Joseph,999335,29,10/21/2008,White,Hopkins
+416,9,Male,Santa Clara,California,Watts,Kevin,999456,27,10/16/2008,Black,Bexar
+414,7,Male,Dallas,Texas,Murray,William,999313,39,09/17/2008,White,Kaufman
+413,12,Male,Bexar,Texas,Rodriguez,Michael,999413,40,08/14/2008,Hispanic,Dallas
+412,12,Male,Dallas,Texas,Dorsey,Leon,999359,32,08/12/2008,Black,Dallas
+411,11,Male,San Pedrosula,Honduras,Chi,Heliberto,999437,29,08/07/2008,Hispanic,Tarrant
+409,9,Male,Parmer,Texas,Davis,Larry,999316,40,07/31/2008,Black,Potter
+407,9,Male,Salt Lake,Utah,Turner,Carlton,999321,29,07/10/2008,Black,Dallas
+406,12,Male,Oklahoma,Oklahoma,Chamberlain,Karl,999241,37,06/11/2008,White,Dallas
+404,8,Male,Bexar,Texas,Kimmel,Clifford,999347,32,09/20/2007,White,Bexar
+403,10,Male,Greenville,South Carolina,Roach,Tony,999323,30,09/05/2007,White,Potter
+400,10,Male,Caddo Parish,Louisiana,Conner,Johnny,999324,32,08/22/2007,Black,Harris
+399,11,Male,Matagorda,Texas,Parr,Kenneth,999312,27,08/15/2007,Black,Matagorda
+396,11,Male,Bailey,Texas,Reyes,Gilberto,999352,33,06/21/2007,Hispanic,Bailey
+392,7,Male,Little Rock,Arkansas,Dickson,Ryan,999250,30,04/26/2007,White,Potter
+391,9,Male,Caddo Parish,Louisiana,Clark,James,999095,38,04/11/2007,White,Denton
+389,8,Male,Bexar,Texas,Gutierrez,Vincent,999262,28,03/28/2007,Hispanic,Bexar
+388,10,Male,Dallas,Texas,Nealy,Charles,999289,42,03/20/2007,Black,Dallas
+386,9,Male,Bexar,Texas,Perez,Robert,999322,48,03/06/2007,Hispanic,Dallas
+384,8,Male,Dallas,Texas,Anderson,Newton,999355,30,02/22/2007,White,Smith
+383,12,Male,Harris,Texas,Jackson,James,999272,47,02/07/2007,Black,Harris
+382,10,Male,Dallas,Texas,Swift,Christopher,999496,31,01/30/2007,White,Denton
+380,11,Male,Manhattan,New York,Granados,Carlos,999307,36,01/10/2007,Hispanic,Williamson
+375,9,Male,Dallas,Texas,Frazier,Derrick,999284,29,08/31/2006,Black,Refugio
+374,12,Male,Dallas,Texas,Fuller,Justin,999266,27,08/24/2006,Black,Smith
+373,5,Male,Bexar,Texas,Hinojosa,Richard,999246,43,08/17/2006,Hispanic,Bexar
+372,12,Male,Detroit,Michigan,Wyatt Jr.,William,999255,41,08/03/2006,Black,Bowie
+368,7,Male,Durango,Mexico,Resendiz,Angel,999356,45,06/27/2006,Hispanic,Harris
+367,10,Male,Tarrant,Texas,Reese,Lamont,999374,28,06/20/2006,Black,Tarrant
+364,10,Male,San Patricio,Texas,Herron,Jermaine,999304,27,05/17/2006,Black,Refugio
+361,9,Male,Lubbock,Texas,Salazar Jr.,Robert,999303,27,03/22/2006,Hispanic,Lubbock
+360,12,Male,Dallas,Texas,Hughes,Tommie,999273,31,03/15/2006,Black,Dallas
+358,11,Male,Tarrant,Texas,Neville Jr.,Robert,999293,31,02/08/2006,White,Tarrant
+354,9,Male,Harris,Texas,Rowell,Robert,999104,50,11/15/2005,White,Harris
+352,9,Male,Howard,Texas,White,Melvin,999317,55,11/03/2005,White,Pecos
+351,12,Male,Tom Green,Texas,Ramirez,Luis,999309,42,10/20/2005,Hispanic,Tom Green
+346,11,Male,Austin,Texas,Martinez,David,999288,29,07/28/2005,Hispanic,Travis
+345,8,Male,Harris,Texas,Martinez,Alexander,999438,28,06/07/2005,Hispanic,Harris
+342,9,Male,Harris,Texas,Pursley,Lonnie,999294,43,05/03/2005,White,Polk
+337,7,Male,Tarrant,Texas,Porter,James,999378,33,01/04/2005,White,Bowie
+335,11,Male,Harris,Texas,McWilliams,Frederick,999242,30,11/10/2004,Black,Harris
+333,NA,Male,New Orleans,Louisiana,Morrow,Robert,999244,47,11/04/2004,White,Liberty
+321,9,Male,Harris,Texas,Cotton,Marcus,999252,29,03/03/2004,Black,Harris
+314,11,Male,Dallas,Texas,Matthews,Ynobe,999387,27,01/06/2004,Black,Brazos
+310,12,Male,Howell,Missouri,Hayes,Larry,999358,54,09/10/2003,White,Montgomery
+307,12,Male,Portsmouth,Virginia,Black Sr.,Christopher,999277,43,07/09/2003,Black,Bell
+300,12,Male,Harris,Texas,Clay,Keith,999238,35,03/20/2003,Black,Harris
+298,10,Male,Harris,Texas,Williams,Richard,999251,33,02/25/2003,Black,Harris
+291,9,Male,Nueces,Texas,Baltazar,John,999257,30,01/15/2003,Hispanic,Nueces
+263,10,Male,Wise,Texas,Santellan Sr.,Jose,999140,40,04/10/2002,Hispanic,Kerr
+234,12,Male,Juarez,Mexico,Flores,Miguel,983,31,11/09/2000,Hispanic,Collin
+204,12,Male,Baldwin,Alabama,Hughes Jr.,Billy,556,47,01/24/2000,White,Matagorda
+174,12,Male,Lafayette,Tennessee,Foust,Aaron,999268,26,04/28/1999,White,Tarrant
+153,12,Male,Brunswick,Georgia,Boggess,Clifford,887,32,06/11/1998,White,Clay
+66,9,Male,Bexar,Texas,Cantu,Ruben,804,26,08/24/1993,Hispanic,Bexar
+54,NA,Male,NA,NA,Lincecum,Kavin,832,29,12/10/1992,Black,Brazoria
+53,NA,Male,NA,NA,Griffin,Jeffery,647,37,11/19/1992,Black,Harris
+51,NA,Male,NA,NA,Johnson,Curtis,761,38,08/11/1992,Black,Harris
+50,NA,Male,NA,NA,Black Jr.,Robert,819,45,05/22/1992,White,Brazos
+43,NA,Male,NA,NA,Cordova,Joe,730,39,01/22/1992,Hispanic,Harris
+40,NA,Male,NA,NA,Bird,Jerry,512,54,06/17/1991,White,Cameron
+24,NA,Male,NA,NA,Johnson,Elliot,739,38,06/24/1987,Black,Jefferson
+21,9,Male,El Paso,Texas,Hernandez,Ramon,667,44,01/30/1987,Hispanic,El Paso
+20,NA,Male,NA,NA,Andrade,Richard,774,25,12/18/1986,Hispanic,Nueces
+18,NA,Male,NA,NA,Wicker,Chester,678,37,08/26/1986,White,Galveston
+15,NA,Male,NA,NA,Brock,Kenneth,522,37,06/19/1986,White,Harris
+14,NA,Male,NA,NA,Esquivel,Rudy,606,50,06/09/1986,Hispanic,Harris
+2,6,Male,Potter,Texas,Autry,James,670,29,03/14/1984,White,Jefferson
+1,12,Male,Tarrant,Texas,Brooks Jr.,Charlie,592,40,12/07/1982,Black,Tarrant
+542,9,Male,Tarrant,Texas,Bigby,James,997,61,3/14/2017,White,Tarrant
+541,10,Male,Bexar,Texas,Ruiz,Rolando,999145,44,03/07/2017,Hispanic,Bexar
+534,NA,Male,Harris,Texas,Garcia,Gustavo,999018,43,02/16/2016,Hispanic,Collin
+526,16,Male,Kansas City,Missouri,Bower,Lester,764,67,06/03/2015,White,Grayson
+519,NA,Male,Portales,New Mexico,Prieto,Arnold,999149,42,01/21/2015,Hispanic,Bexar
+516,9,Male,Harris,Texas,Trottie,Willie,999085,45,09/10/2014,Black,Harris
+509,NA,Male,Mexico,Mexico,Tamayo,Edgar,999130,46,01/22/2014,Hispanic,Harris
+507,9,Male,Dallas,Texas,McCoskey,Jamie,999053,49,11/12/2013,White,Harris
+494,9,Male,Smith,Texas,Lewis,Ricky,999097,50,04/09/2013,Black,Smith
+493,8,Male,Brazos,Texas,Blue,Carl,999151,48,02/21/2013,Black,Brazos
+492,12,Male,Erie,New York,Hughes,Preston,939,46,11/15/2012,Black,Harris
+488,9,Male,Dallas,Texas,Hines,Bobby,999025,40,10/24/2012,White,Dallas
+484,11,Male,Jefferson,Texas,Wilson,Marvin,999098,54,08/07/2012,Black,Jefferson
+471,12,Male,Monterrey,Mexico,Leal,Humberto,999162,38,07/07/2011,Hispanic,Bexar
+468,8,Male,Dallas,Texas,Bradford,Gayland,966,42,06/01/2011,Black,Dallas
+463,18,Male,NA,Texas,Cantu,Peter,999093,35,08/17/2010,Hispanic,Harris
+460,16,Male,Brazos,Texas,Powell,David,612,59,06/15/2010,White,Travis
+459,11,Male,Dallas,Texas,Jones,George,999147,36,06/02/2010,Black,Dallas
+458,10,Male,Bastrop,Texas,Alba,John,999027,54,05/25/2010,Hispanic,Collin
+449,8,Male,St.Louis,Missouri,Johnson,Gary,911,59,01/12/2010,White,Walker
+440,10,Male,Harris,Texas,Moody,Stephen,999076,52,09/16/2009,White,Harris
+438,10,Male,Dallas,Texas,Riley,Michael,851,51,05/19/2009,Black,Wood
+433,9,Male,Harris,Texas,Morris,Kenneth,999117,38,03/04/2009,Black,Harris
+432,11,Male,McCurtain,Oklahoma,Pondexter,Willie,999111,34,03/03/2009,Black,Red River
+431,10,Male,Travis,Texas,Johnson,Johnny,999197,51,02/12/2009,Black,Harris
+429,9,Male,Hidalgo,Texas,Martinez,David,999173,36,02/04/2009,Hispanic,Bexar
+425,11,Male,Hot Springs,Arkansas,Moore,Frank,999210,49,01/21/2009,Black,Bexar
+421,11,Male,Harris,Texas,Whitaker III,George,999196,36,11/12/2008,Black,Harris
+420,5,Male,Milwaukee,Wisconsin,Taylor,Elkie,999112,46,11/06/2008,Black,Tarrant
+418,12,Male,Olean,New York,Nenno,Eric,999188,45,10/28/2008,White,Harris
+415,11,Male,Culberson,Texas,Kelly,Alvin,999012,57,10/14/2008,White,Gregg
+410,9,Male,Mexico,Mexico,Medellin,Jose,999134,33,08/05/2008,Hispanic,Harris
+408,11,Male,Sulfer,Louisiana,Sonnier,Derrick,999054,40,07/23/2008,Black,Harris
+405,9,Male,Waller,Texas,Richard,Michael,890,48,09/25/2007,Black,Harris
+402,11,Male,Bexar,Texas,Amador,John,999160,32,08/29/2007,Hispanic,Bexar
+401,12,Male,Gregg,Texas,Mosley,Daroyce,999171,32,08/28/2007,Black,Gregg
+398,11,Male,Harris,Texas,Johnson,Lonnie,999135,44,07/24/2007,Black,Harris
+397,9,Male,Potter,Texas,Knight,Patrick,999072,39,06/26/2007,White,Randall
+395,NA,Male,Fort Bend,Texas,Rodriguez,Lionell,999002,36,06/20/2007,Hispanic,Harris
+394,12,Male,Los Angeles,California,Griffith,Michael,999176,56,06/06/2007,White,Harris
+393,10,Male,San Bernardino,California,Smith,Charles,953,41,05/16/2007,White,Pecos
+390,12,Male,Harris,Texas,Pippin,Roy,999170,51,03/29/2007,White,Harris
+387,11,Male,Galveston,Texas,Nichols,Joseph,709,45,03/07/2007,Black,Harris
+385,11,Male,Harris,Texas,Miller,Donald,728,44,02/27/2007,White,Harris
+381,12,Male,Fort Walton Beach,Florida,Moore,Jonathan,999216,32,01/17/2007,White,Bexar
+379,10,Male,Harris,Texas,Shannon,Willie,999086,30,11/08/2006,Black,Harris
+378,8,Male,Harris,Texas,Jackson,Donell,999206,33,11/01/2006,Black,Harris
+377,11,Male,Callahan,Texas,Summers,Gregory,999010,48,10/25/2006,White,Denton
+376,12,Male,Harris,Texas,Matchett,Farley,999060,43,09/12/2006,Black,Harris
+371,12,Male,Great Lakes,Illinois,Anderson,Robert,999084,40,07/20/2006,White,Potter
+370,10,Male,Bexar Country,Texas,Brown,Mauriceo,999234,31,07/19/2006,Black,Bexar
+369,9,Male,Harris,Texas,O Brien,Derrick,999131,31,07/11/2006,Black,Harris
+366,8,Male,Denver,Colorado,Titsworth,Timothy,999078,34,06/06/2006,White,Randall
+365,11,Male,Cameron,Texas,Aguilar,Jesus,999191,42,05/24/2006,Hispanic,Cameron
+363,12,Male,Lubbock,Texas,Wilson,Jackie,957,39,05/04/2006,White,Dallas
+362,12,Male,Harris,Texas,Kincy,Kevin,999179,38,03/29/2006,Black,Harris
+359,9,Male,Detroit,Michigan,Smith Jr.,Clyde,999088,32,02/15/2006,Black,Harris
+357,8,Male,Harris,Texas,Elizalde Jr.,Jaime,999230,34,01/31/2006,Hispanic,Harris
+356,10,Male,Tuscaloosa,Alabama,Dudley,Marion,999136,33,01/25/2006,Black,Harris
+355,13,Male,Harris,Texas,Thomas,Shannon,999213,34,11/16/2005,Black,Harris
+353,8,Male,Loraine,Ohio,Thacker,Charles,999103,37,11/09/2005,White,Harris
+350,7,Male,Harris,Texas,Howard,Ronald,999069,32,10/06/2005,Black,Travis
+349,12,Male,Harris,Texas,Newton,Francis,922,40,09/14/2005,Black,Harris
+348,12,Male,Howard,Indiana,Shields,Robert,999166,30,08/23/2005,White,Galveston
+347,12,Male,Hill,Texas,Sterling,Gary,931,38,08/10/2005,Black,Navarro
+344,12,Male,Chicago,Illinois,Cartwright,Richard,999224,31,05/19/2005,White,Nueces
+343,12,Male,Terribone Parish,Louisiana,Wolfe,Bryan,999079,44,05/18/2005,Black,Jefferson
+341,12,Male,Harris,Texas,Roberts,Douglas,999218,42,04/20/2005,White,Kendall
+340,12,Male,Harris,Texas,Hopper,George,999037,49,03/08/2005,White,Dallas
+339,9,Male,Denver,Colorado,Bagwell,Dennis,999209,41,02/17/2005,White,Atascosa
+338,11,Male,Nurenburg,Germany,Kunkle,Troy,784,38,01/25/2005,White,Nueces
+336,12,Male,Harris,Texas,Fuentes,Anthony,999215,30,11/17/2004,Hispanic,Harris
+334,12,Male,Luarel,Mississippi,McCullum,Demarco,999180,30,11/09/2004,Black,Harris
+332,10,Male,Nacogdoches,Texas,Morris,Lorenzo,999038,52,11/02/2004,Black,Harris
+331,12,Male,Harris,Texas,Green,Dominique,999068,30,10/26/2004,Black,Harris
+330,10,Male,Navarro,Texas,Morrow,Ricky,753,53,10/20/2004,White,Dallas
+329,10,Male,Oklahoma Co.,Oklahoma,Aldrich,Donald,999113,39,10/12/2004,White,Kerr
+328,9,Male,Cook,Illinois,Miniel,Peter,920,42,10/06/2004,Hispanic,Harris
+327,9,Male,Essex,New Jersey,Green,Edward,999073,30,10/05/2004,Black,Harris
+326,10,Male,Bexar,Texas,Flores,Andrew,999100,32,09/21/2004,Hispanic,Bexar
+325,12,Male,El Paso,Colorado,Allridge III,James,870,41,08/26/2004,Black,Tarrant
+324,11,Male,Smith,Texas,Busby,Jasen,999201,28,08/25/2004,White,Cherokee
+323,9,Male,Jefferson,Texas,Harris,David,827,43,06/30/2004,White,Jefferson
+322,NA,Male,Anderson,Texas,Patterson,Kelsey,999065,50,05/18/2004,Black,Anderson
+320,10,Male,Carter,Oklahoma,Willingham,Cameron,999041,36,02/17/2004,White,Navarro
+319,11,Male,Lea,New Mexico,Hopkins,Bobby,999101,36,02/12/2004,Black,Johnson
+318,10,Male,Cook,Texas,Lagrone,Edward,999083,46,02/11/2004,Black,Tarrant
+317,6,Male,Hunt,Texas,Vickers,Billy,999087,58,01/28/2004,White,Lamar
+316,6,Male,Lafayette Parish,Louisiana,Zimmerman,Kevin,977,42,01/21/2004,White,Jefferson
+315,11,Male,Colin,Texas,Bruce,Kenneth,999023,32,01/14/2004,Black,Collin
+313,12,Male,Grayson,Texas,Murphy,Ivan,989,38,12/04/2003,White,Grayson
+312,12,Male,Cameron,Texas,Duncan,Richard,999153,61,12/03/2003,White,Harris
+311,14,Male,Potter,Texas,Henry,Robert,999129,41,11/20/2003,White,San Patricio
+309,12,Male,Colorado,Texas,Janecka,Allen,684,53,07/24/2003,White,Harris
+308,9,Male,Tarrant,Texas,Ransom,Cedric,999050,29,07/23/2003,Black,Tarrant
+306,15,Male,Jefferson,Texas,Crawford,Hilton,999200,64,07/02/2003,White,Montgomery
+305,12,Male,Bexar,Texas,Johnson,Kia,999139,38,06/11/2003,Black,Bexar
+304,10,Male,Monterrey,California,Jacobs,Bruce,876,56,05/15/2003,White,Dallas
+303,10,Male,Wilbarger,Texas,Vaughn,Roger,999029,48,05/06/2003,White,Wilbarger
+302,8,Male,Allen(Fort Wayne),Indiana,Chavez,John,999186,34,04/22/2003,Hispanic,Dallas
+301,9,Male,Harris,Texas,Colburn,James,999169,43,03/26/2003,White,Montgomery
+299,9,Male,Navarro,Texas,Cook,Bobby,999094,41,03/11/2003,White,Anderson
+297,10,Male,Gregg,Texas,Dunn Jr.,Henry,999165,28,02/06/2003,Black,Smith
+296,9,Male,NA,England,Elliott,John,861,42,02/04/2003,Hispanic,Travis
+295,8,Male,Hutchinson,Texas,Riddle,Granville,965,33,01/30/2003,White,Potter
+294,12,Male,Fairfax,Virginia,Dinkins,Richard,999022,40,01/29/2003,White,Jefferson
+293,9,Male,Travis,Texas,Curry,Alva,999080,32,01/28/2003,Black,Travis
+292,11,Male,Hidalgo,Texas,Lookingbill,Robert,990,37,01/22/2003,White,Hidalgo
+290,8,Male,Alburquerque,New Mexico,Gallamore,Samuel,999090,31,01/14/2003,White,Comal
+289,7,Male,Wichita,Texas,Collier,James,999190,55,12/11/2002,White,Wichita
+288,11,Male,Victoria,Texas,Rojas,Leonard,999194,52,12/04/2002,Hispanic,Johnson
+287,11,Male,Tarrant,Texas,Chappell,William,960,66,11/20/2002,White,Tarrant
+286,15,Male,NA,Missouri,Ogan,Craig,979,47,11/19/2002,White,Harris
+285,NA,Male,Sabine,Louisiana,Powell,James,999001,56,10/01/2002,White,Newton
+284,9,Male,Dallas,Texas,King,Calvin,999152,48,09/25/2002,Black,Jefferson
+283,NA,Male,Harris,Texas,Mays,Rex,999172,42,09/24/2002,White,Harris
+282,16,Male,Potter,Texas,Shamburger,Ron,999167,30,09/18/2002,White,Brazos
+281,10,Male,Los Angeles,California,Patrick,Jessie,975,44,09/17/2002,White,Dallas
+280,9,Male,Dallas,Texas,Walker,Tony,999082,36,09/10/2002,Black,Morris
+279,10,Male,Dallas,Texas,Patterson,Toronto,999178,24,08/28/2002,Black,Dallas
+278,9,Male,Harris,Texas,Etheridge,Gary,986,38,08/20/2002,White,Brazoria
+277,10,Male,Piedras Negras,Mexico,Medina,Javier,944,33,08/14/2002,Hispanic,Dallas
+276,8,Male,Gregg,Texas,Jones,T.J.,999133,25,08/08/2002,Black,Gregg
+275,12,Male,Harris,Texas,Kutzner,Richard,999227,59,08/07/2002,White,Montgomery
+274,9,Male,Harris,Texas,Williams,Jeffrey,999154,30,06/26/2002,Black,Harris
+273,14,Male,Providence,Rhode Island,Coulson,Robert,999115,34,06/25/2002,White,Harris
+272,11,Male,Jacksonville,Florida,Reneau,Daniel,999223,27,06/13/2002,White,Gillespie
+271,14,Male,Paris,France,Baker Jr.,Stanley,999157,35,05/30/2002,White,Brazos
+270,12,Male,Houston,Texas,Beazley,Napoleon,999141,25,05/28/2002,Black,Smith
+269,11,Male,Kleburg,Texas,Martinez,Johnny,999089,29,05/22/2002,Hispanic,Nueces
+268,11,Male,Harris,Texas,Styron,Ronford,999124,32,05/16/2002,White,Liberty
+267,11,Male,Tarrant,Texas,Reeves,Reginald,999119,28,05/09/2002,Black,Red River
+266,7,Male,Bexar,Texas,Hernandez,Rodolfo,807,54,04/30/2002,Hispanic,Comal
+265,11,Male,Montgomery,Texas,Casey,Gerald,999013,47,04/18/2002,White,Montgomery
+264,12,Male,Bowie,Texas,Burns,William,692,43,04/11/2002,Black,Bowie
+262,9,Male,McLennan,Texas,Tigner,Gerald,999099,29,03/07/2002,Black,McLennan
+261,13,Male,Jefferson,Texas,Delk,Monty,900,35,02/28/2002,White,Anderson
+260,10,Male,Dallas,Texas,Hafdahl Sr.,Randall,826,48,01/31/2002,White,Randall
+259,7,Male,Jefferson,Texas,Broussard,Windell,999064,41,01/30/2002,Black,Jefferson
+258,12,Male,St.Louis,Missouri,Arnold,Jermarr,987,43,01/16/2002,Black,Nueces
+257,8,Male,Onondaga,New York,Moore,Michael,999126,31,01/09/2002,White,Coryell
+256,9,Male,Harris,Texas,Cooks,Vincent,927,37,12/12/2001,Black,Dallas
+255,11,Male,Dallas,Texas,Rudd,Emerson,936,31,11/15/2001,Black,Dallas
+254,10,Male,Tarrant,Texas,Tucker,Jeffery,952,41,11/14/2001,White,Parker
+253,10,Male,Nueces,Texas,Mitchell,Gerald,838,33,10/22/2001,Black,Harris
+252,8,Male,Etawah,Alabama,Knox,James,823,50,09/18/2001,White,Galveston
+251,9,Male,Tarboro,North Carolina,Doughtie,Jeffery,999106,39,08/16/2001,White,Nueces
+250,7,Male,Tarrant,Texas,Hill,Mack,961,47,08/08/2001,White,Lubbock
+249,10,Male,San Diego,California,Wilkens,James,897,39,07/11/2001,White,Smith
+248,14,Male,Oklahoma Co.,Oklahoma,Richardson,Miguel,691,46,06/26/2001,Black,Bexar
+247,11,Male,Erath,Texas,Wheat,John,999222,57,06/13/2001,White,Tarrant
+246,8,Male,Tarrant,Texas,Goff,David,999015,31,04/25/2001,Black,Tarrant
+245,8,Male,Hopkins,Texas,Massey,Jason,999121,28,04/03/2001,White,Ellis
+244,10,Male,Harris,Texas,Dowthitt,Dennis,999047,55,03/07/2001,White,Montgomery
+243,7,Male,Lubbock,Texas,Hernandez,Adolph,978,50,02/08/2001,Hispanic,Lubbock
+242,11,Male,Travis,Texas,Alexander,Caruthers,704,52,01/29/2001,Black,Bexar
+241,10,Male,Bula,Ohio,Goodwin,Alvin,879,37,01/18/2001,White,Montgomery
+240,10,Male,Miller,Arkansas,Clark,Jack,994,37,01/09/2001,White,Lubbock
+239,9,Male,Harris,Texas,Jones,Claude,980,60,12/07/2000,White,San Jacinto
+238,14,Male,Perry,Indiana,Hittle,Daniel,981,50,12/06/2000,White,Dallas
+237,12,Male,Scurry,Texas,Miller,Garry,947,33,12/05/2000,White,Jones
+236,10,Male,Pageland,South Carolina,Chambers,Tony,999009,32,11/15/2000,Black,Smith
+235,10,Male,Dallas,Texas,Lawton,Stacey,999066,31,11/14/2000,Black,Smith
+233,12,Male,Chippewa,Wisconsin,Dillingham,Jeffery,999071,27,11/01/2000,White,Wichita
+232,11,Male,Brown,Texas,McGinn,Ricky,999150,43,09/27/2000,White,Brown
+231,12,Male,Cook,Illinois,Caldwell,Jeffery,938,37,08/30/2000,Black,Dallas
+230,10,Male,NA,Florida,Gibbs,David,825,39,08/23/2000,White,Montgomery
+229,12,Male,Tarrant,Texas,Jones,Richard,882,40,08/22/2000,White,Tarrant
+228,9,Male,Hays,Texas,Satterwhite,John,651,53,08/16/2000,Black,Bexar
+227,7,Male,Bexar,Texas,Cruz,Oliver,954,33,08/09/2000,Hispanic,Bexar
+226,12,Male,Dallas,Texas,Roberson,Brian,886,36,08/09/2000,Black,Dallas
+225,9,Male,Stanton,Kansas,Soria,Juan,837,33,07/26/2000,Hispanic,Tarrant
+224,12,Male,Crisp,Georgia,Joiner,Orien,902,50,07/12/2000,White,Lubbock
+223,10,Male,Pierce,Washington,San Miguel,Jessy,999008,28,06/29/2000,Hispanic,Dallas
+222,9,Male,Harris,Texas,Graham,Gary,696,39,06/22/2000,Black,Harris
+221,NA,Male,NA,NA,Nuncio,Paul,999158,32,06/15/2000,Hispanic,Hale
+220,9,Male,McLennan,Texas,Burks,John,949,44,06/14/2000,Black,McLennan
+219,9,Male,Red River,Texas,Mason,Thomas,999035,48,06/12/2000,White,Smith
+218,12,Male,Grimes,Texas,Carter,Robert,999091,34,05/31/2000,Black,Bastrop
+217,14,Male,Kings,New York,Clayton,James,921,33,05/25/2000,Black,Taylor
+216,11,Male,Commanche,Oklahoma,Foster,Richard,815,47,05/24/2000,White,Parker
+215,11,Male,Tarrant,Texas,Richardson,James,867,32,05/23/2000,Black,Navarro
+214,12,Male,Kings,California,McBride,Michael,903,38,05/11/2000,White,Lubbock
+213,8,Male,McLaine,Oklahoma,Kitchens,William,840,37,05/09/2000,White,Taylor
+212,14,Male,Gonzalez,Texas,Jackson,Tommy,821,43,05/04/2000,Black,Williamson
+211,11,Male,Cook,Illinois,Gribble,Timothy,929,36,03/15/2000,White,Galveston
+210,11,Male,Harris,Texas,Wilkerson,Ponchai,999011,28,03/14/2000,Black,Harris
+209,11,Male,Wichita,Texas,Barnes Jr.,Odell,998,31,03/01/2000,Black,Lubbock
+208,10,Male,NA,North Carolina,Beets,Betty,810,62,02/24/2000,White,Henderson
+207,11,Male,Dallas,Texas,Goss,Cornelius,912,38,02/23/2000,Black,Dallas
+206,8,Male,Jefferson,Kentucky,Moreland,James,741,39,01/27/2000,White,Henderson
+205,10,Male,Harris,Texas,McGinnis,Glen,999039,27,01/25/2000,Black,Montgomery
+203,13,Male,Taylor,Texas,Robison,Larry,748,42,01/21/2000,White,Tarrant
+202,11,Male,Freestone,Texas,Hicks,David,930,38,01/20/2000,Black,Freestone
+201,12.5,Male,Germany,Germany,Goodman,Spencer,999031,31,01/18/2000,White,Fort Bend
+200,11,Male,Jefferson,Texas,Heiselbetz Jr.,Earl,999014,48,01/12/2000,White,Sabine
+199,7,Male,Williamson,Texas,Felder Jr.,Sammie,550,54,12/15/1999,Black,Harris
+198,11,Male,Seattle,Washington,Atworth,Robert,999199,30,12/14/1999,White,Dallas
+197,15,Male,Rantoul,Illinois,Beathard,James,785,42,12/09/1999,White,Trinity
+196,13,Male,Tom Green,Texas,Long,David,862,46,12/08/1999,White,Dallas
+195,8,Male,Deaf Smith,Texas,Gutierrez,Jose,970,39,11/18/1999,Hispanic,Brazos
+194,11,Male,Santa Clara,California,Lamb,John,734,42,11/17/1999,White,Hunt
+193,9,Male,Tarrant,Texas,Jennings,Desmond,999161,28,11/16/1999,Black,Tarrant
+192,NA,Male,Dallas,Texas,Cantu Jr.,Domingo,924,31,10/28/1999,Hispanic,Dallas
+191,7,Male,Haskell,Texas,McFadden,Jerry,875,51,10/14/1999,White,Upshur
+190,8,Male,Ochiltree,Texas,Crane,Alvin,888,41,10/12/1999,White,Denton
+189,14,Male,Bowie,Arkansas,Smith,Richard,999116,43,09/21/1999,White,Harris
+188,7,Male,Harris,Texas,Davis,William,614,42,09/14/1999,Black,Harris
+187,11,Male,Matagorda,Texas,Barnes,Willis,935,51,09/10/1999,Black,Harris
+186,8,Male,Jefferson,Texas,Jones,Raymond,959,39,09/01/1999,Black,Jefferson
+185,12,Male,Los Angeles,California,Trevino Jr.,Joe,767,37,08/18/1999,Hispanic,Tarrant
+184,7,Male,Walker,Texas,Earhart,James,905,56,08/11/1999,White,Lee
+183,9,Male,Douglas,Nebraska,Dunn,Kenneth,675,39,08/10/1999,Black,Harris
+182,12,Male,Dallas,Texas,Boyd,Charles,891,39,08/05/1999,Black,Dallas
+181,NA,Male,NA,NA,Blackmon,Ricky,893,41,08/04/1999,White,Shelby
+180,11,Male,Lamar,Texas,Fuller,Tyrone,934,35,07/07/1999,Black,Grayson
+179,10,Male,Jefferson,Texas,Tuttle,Charles,999183,35,07/01/1999,White,Smith
+178,10,Male,Alberta,Canada,Faulder,Joseph,580,61,06/17/1999,White,Gregg
+177,9,Male,Roofer,Texas,Little,William,788,38,06/01/1999,White,Liberty
+176,11,Male,McLennan,Texas,Coleman,Clydell,968,62,05/05/1999,Black,McLennan
+175,10,Male,Nueces,Texas,De La Cruz,Jose,908,31,05/04/1999,Hispanic,Nueces
+173,10,Male,Shelby,Mississippi,White,Excell,511,61,03/30/1999,White,Collin
+172,8,Male,Travis,Texas,Rector,Charles,721,44,03/26/1999,Black,Travis
+171,14,Male,Bexar,Texas,Green,Norman,805,38,02/24/1999,Black,Bexar
+170,11,Male,Lubbock,Texas,Cantu,Andrew,999,30,02/16/1999,Hispanic,Taylor
+169,12,Male,Los Angeles,California,Barber,Danny,673,43,02/11/1999,White,Dallas
+168,6,Male,Bexar,Texas,Cordova,George,706,39,02/10/1999,Hispanic,Bexar
+167,3,Male,Caldwell,Texas,Vega,Martin,932,52,01/26/1999,Hispanic,Caldwell
+166,12,Male,Tarrant,Texas,Farris,Troy,831,36,01/13/1999,White,Tarrant
+165,12,Male,Marion,West Virginia,Moody,John,933,46,01/05/1999,White,Taylor
+164,12,Male,Cuyahoga,Ohio,Meanes,James,689,42,12/15/1998,Black,Harris
+163,8,Male,Hennepin,Minnesota,Emery,Jeff,830,49,12/08/1998,White,Brazos
+162,15,Male,Orange,California,Corwin,Daniel,969,40,12/07/1998,White,Montgomery
+161,9,Male,Bell,Texas,McDuff,Kenneth,999055,52,11/17/1998,White,Harris
+160,8,Male,Travis,Texas,Nobles,Jonathan,885,37,10/07/1998,White,Travis
+159,9,Male,Webb,Texas,Cruz,Javier,999061,41,10/01/1998,Hispanic,Bexar
+158,9,Male,Cook,Illinois,Castillo,David,770,43,09/23/1998,Hispanic,Hidalgo
+157,10,Male,Harris,Texas,Teague Jr.,Delbert,849,35,09/09/1998,White,Tarrant
+156,13,Male,Hidalgo,Texas,Camacho Jr.,Genaro,972,43,08/26/1998,Hispanic,Dallas
+155,9,Male,Bexar,Texas,Narvaiz,Leopoldo,923,30,06/26/1998,Hispanic,Bexar
+154,16,Male,San Bernardino,California,Pyles,Johnny,724,40,06/15/1998,White,Dallas
+152,10,Male,Williamson,Texas,Muniz,Pedro,575,41,05/19/1998,Hispanic,Williamson
+151,10,Male,Marion,Texas,Carter,Robert,708,34,05/18/1998,Black,Harris
+150,10,Male,Washington D.C,Washington,McFarland,Frank,963,34,04/29/1998,White,Tarrant
+149,NA,Female,Barton,Kansas,Gosch,Lesley,842,42,04/24/1998,White,Victoria
+148,NA,Male,Bexar,Texas,Cannon,Joseph,634,38,04/22/1998,White,Bexar
+147,10,Male,Bartholomem,Indiana,Hogue,Jerry,660,47,03/11/1998,White,Tarrant
+146,NA,Male,Harris,Texas,Renfro,Steven,999229,40,02/09/1998,White,Harrison
+145,7,Male,Harris,Texas,Tucker,Karla,777,38,02/03/1998,White,Harris
+144,11,Male,Lucas,Ohio,Lockhart,Michael,917,37,12/09/1997,White,Bexar
+143,10,Male,Harris,Texas,Livingston,Charlie,802,35,11/21/1997,Black,Harris
+142,13,Male,Eastland,Texas,Sharp,Michael,740,43,11/19/1997,White,Crockett
+141,11,Male,Bell,Texas,Fuller,Aaron,964,30,11/06/1997,White,Dawson
+140,11,Male,NA,American Samoa,Lauti,Aua,843,43,11/04/1997,Other,Harris
+139,12,Male,Harris,Texas,Ransom,Kenneth,772,34,10/28/1997,Black,Harris
+138,8,Male,Tarrant,Texas,Green,Ricky,984,36,10/08/1997,White,Tarrant
+137,11,Male,Eddy,New Mexico,Adanandus,Dwight,940,41,10/01/1997,Black,Bexar
+136,9,Male,Cobb,Georgia,Cockrum,John,854,38,09/30/1997,White,Bowie
+135,12,Male,Oceanside,California,Stone,Benjamin,999187,45,09/25/1997,White,Nueces
+134,11,Male,Harris,Texas,Turner,Jessel,895,37,09/22/1997,Black,Harris
+133,8,Male,Travis,Texas,Davis,James,786,34,09/09/1997,Black,Travis
+132,8,Male,Duval,Florida,West Jr.,Robert,731,35,07/29/1997,White,Harris
+131,5,Male,Tampico,Mexico,Montoya,Irineo,847,29,06/18/1997,Hispanic,Cameron
+130,11,Male,Cook,Illinois,Johnson,Eddie,898,44,06/17/1997,Black,Aransas
+129,8,Male,Potter,Texas,Stoker,David,892,38,06/16/1997,White,Hale
+128,14,Male,Clark Air Force Base,Phillippines,Behringer,Earl,914,33,06/11/1997,White,Tarrant
+127,11,Male,Cameron,Texas,Losada,Davis,798,32,06/04/1997,Hispanic,Cameron
+126,11,Male,Colorado,Texas,Johnson Jr.,Dorsie,850,30,06/04/1997,Black,Scurry
+125,11,Male,Harris,Texas,Harris,Kenneth,901,34,06/03/1997,Black,Harris
+124,10,Male,Oklahoma Co.,Oklahoma,Rogers,Patrick,816,33,06/02/1997,Black,Collin
+123,12,Male,Harris,Texas,Madden,Robert,822,33,05/28/1997,White,Leon
+122,12,Male,FairField,Ohio,White,Larry,640,47,05/22/1997,White,Harris
+121,10,Male,Dallas,Texas,Callins,Bruce,717,37,05/21/1997,Black,Tarrant
+120,9,Male,El Paso,Texas,Lackey,Clarence,591,42,05/20/1997,White,Tom Green
+119,12,Male,Mobile,Alabama,Drinkard,Richard,846,39,05/19/1997,White,Harris
+118,7,Male,Scurry,Texas,Belyeu,Clifton,841,38,05/16/1997,White,McLennan
+117,8,Male,Caddo Parish,Louisiana,Westley,Anthony,797,36,05/13/1997,Black,Harris
+116,9,Male,Brazos,Texas,Washington,Terry,884,33,05/06/1997,Black,Walker
+115,7,Male,Leon,Texas,Baldree,Ernest,855,55,04/29/1997,White,Navarro
+114,10,Male,Kiowa,Oklahoma,Boyle,Benjamin,853,53,04/21/1997,White,Potter
+113,9,Male,Bartow,Georgia,Gentry,Kenneth,760,36,04/16/1997,White,Denton
+112,10,Male,Waller,Texas,Woods,Billy,552,50,04/14/1997,White,Harris
+111,9,Male,McLennan,Texas,Spence,David,773,40,04/03/1997,White,McLennan
+110,14,Male,Orange,California,Herman,David,999003,39,04/02/1997,White,Tarrant
+109,8,Male,Pima,Arizona,Barefield,John,844,32,03/12/1997,Black,Harris
+108,12,Male,Pierce,Washington,Brimage Jr.,Richard,899,42,02/10/1997,White,Kleberg
+107,11,Male,Potter,Texas,Gonzales Jr.,Joe,999177,36,09/18/1996,Hispanic,Potter
+106,12,Male,Tarrant,Texas,Granviel,Kenneth,533,45,02/27/1996,Black,Tarrant
+105,10,Male,Cuyahoga,Ohio,Jenkins,Leo,967,38,02/09/1996,White,Harris
+104,7,Male,Los Angeles,California,Briddle,James,711,40,12/12/1995,White,Harris
+103,9,Male,Pima,Arizona,Banda,Esequel,863,31,12/11/1995,Hispanic,Hamilton
+102,7,Male,NA,South Vietnam,Vuong,Hai,904,40,12/07/1995,Other,Jefferson
+101,11,Male,Dallas,Texas,Amos,Bernard,926,33,12/06/1995,Black,Dallas
+100,9,Male,Drew,Arkansas,Lane,Harold,745,50,10/04/1995,White,Dallas
+99,8,Male,Polk,Texas,Johnson,Carl,633,40,09/19/1995,Black,Harris
+98,10,Male,Hays,Texas,Sattiewhite,Vernon,857,40,08/15/1995,Black,Bexar
+97,9,Male,Bexar,Texas,Hammond,Karl,865,31,06/21/1995,Black,Bexar
+96,8,Male,Dallas,Texas,Fearance,John,626,41,06/20/1995,Black,Dallas
+95,10,Male,NA,Stullgart ,Allridge,Ronald,818,35,06/08/1995,Black,Tarrant
+94,8,Male,Jefferson,Kentucky,Mann,Fletcher,705,34,06/01/1995,White,Dallas
+93,15,Male,Galveston,Texas,Mays,Noble,674,42,04/06/1995,White,Wilbarger
+92,12,Male,Jefferson,Georgia,Hawkins,Samuel,590,52,02/21/1995,Black,Lubbock
+91,12,Male,Kaufman,Texas,Gardner,Billy,751,52,02/16/1995,White,Dallas
+90,9,Male,Milwaukee,Wisconsin,Motley,Jeffery,789,29,02/07/1995,White,Harris
+89,11,Male,Harris,Texas,Williams,Willie,677,38,01/31/1995,Black,Harris
+88,7,Male,Taylor,Texas,Russell Jr.,Clifton,658,38,01/31/1995,White,Taylor
+87,6,Male,Williamson,Texas,Marquez,Mario,776,36,01/17/1995,Hispanic,Bexar
+86,12,Male,Poshmatah,Oklahoma,Jacobs,Jesse,872,44,01/04/1995,White,Walker
+85,11,Male,Harris,Texas,Kinnamon,Raymond,808,53,12/11/1994,White,Harris
+84,14,Male,Childress,Texas,Clark Jr.,Herman,715,48,12/06/1994,Black,Harris
+83,11,Male,Fauquier,Virginia,Bridge,Warren,668,34,11/22/1994,White,Galveston
+82,12,Male,Bexar,Texas,Williams,Walter,722,32,10/05/1994,Black,Bexar
+81,20,Male,Okmulgee,Oklahoma,Lott,George,999058,47,09/20/1994,White,Potter
+80,8,Male,Knox,Texas,Gutierrez,Jessie,971,29,09/16/1994,Hispanic,Brazos
+79,10,Male,Rutland,Vermont,Drew,Robert,755,35,08/02/1994,White,Harris
+78,12,Male,Harris,Texas,Crank,Denton,803,38,06/14/1994,White,Harris
+77,12,Male,Hamilton,Tennessee,Nethery,Stephen,698,33,05/27/1994,White,Dallas
+76,9,Male,San Bernardino,Louisiana,Rougeau,Paul,603,46,05/03/1994,Black,Harris
+75,12,Male,Harris,Texas,Anderson,Larry,733,41,04/26/1994,White,Harris
+74,5,Male,Alexander,Virginia,Beavers,Richard,916,39,04/04/1994,White,Harris
+73,11,Male,Nueces,Texas,Webb,Freddie,848,33,03/31/1994,Black,Nueces
+72,12,Male,Bexar,Texas,Barnard,Harold,683,51,02/02/1994,White,Galveston
+71,7,Male,Erie,New York,Phillips,Clifford,723,59,12/15/1993,Black,Harris
+70,9,Male,Caddo Parish,Louisiana,Cook,Anthony,918,34,11/10/1993,White,Milam
+69,9,Male,Harris,Texas,Bonham,Antonio,700,33,09/28/1993,Black,Harris
+68,9,Male,Jackson ,Arkansas,James,Johnny,839,39,09/03/1993,White,Chambers
+67,10,Male,Harris,Texas,Wilkerson,Richard,756,29,08/31/1993,Black,Harris
+65,11,Male,McLennan,Texas,Kelly,Carl,688,34,08/20/1993,Black,McLennan
+64,13,Male,Angelina,Texas,Holland,David,820,58,08/12/1993,White,Jefferson
+63,13,Male,Kane,Illinois,Jernigan,Joseph,699,39,08/05/1993,White,Navarro
+62,9,Male,Brazos,Texas,Harris,Danny,649,32,07/30/1993,Black,Brazos
+61,8,Male,Brazos,Texas,Harris,Curtis,637,31,07/01/1993,Black,Brazos
+60,14,Male,Tarrant,Texas,Duff-Smith,Markum,694,46,06/29/1993,White,Harris
+59,12,Male,Washtenaw,Michigan,Sawyers,John,742,38,05/18/1993,White,Harris
+58,11,Male,Hidalgo,Texas,Herrera,Leonel,702,45,05/12/1993,Hispanic,Cameron
+57,12,Male,Harris,Texas,Stewart,Darryl,664,38,05/04/1993,Black,Harris
+56,7,Male,NA,Mexico,Montoya,Ramon,737,38,03/25/1993,Hispanic,Dallas
+55,11,Male,NA,Dominican Republic,Santana,Carlos,695,40,03/23/1993,Hispanic,Harris
+52,9,Male,Bexar,Texas,Demouchette,James,572,37,09/22/1992,Black,Harris
+49,NA,Male,NA,NA,Romero Jr.,Jesus,801,27,05/20/1992,Hispanic,Cameron
+48,11,Male,Cameron,Texas,May,Justin,783,46,05/07/1992,White,Brazoria
+47,11,Male,Holmes ,Mississippi,White,Billy,585,34,04/23/1992,Black,Harris
+46,10,Male,Bexar,Texas,Ellis,Edward,749,38,03/03/1992,White,Harris
+45,10,Male,Warren,PA,Clark,David,874,32,02/28/1992,White,Brazos
+44,7,Male,Oklahoma Co.,Oklahoma,Garrett,Johnny,729,28,02/11/1992,White,Potter
+42,14,Male,Nacogdoches,Texas,Green,G.W.,576,49,11/12/1991,White,Montgomery
+41,10,Male,Caddo Parish,Louisiana,Russell,James,579,42,09/19/1991,Black,Fort Bend
+39,NA,Male,NA,Mexico,Cuevas,Ignacio,526,59,05/23/1991,Hispanic,Harris
+38,10,Male,Micker,Georgia,Buxton,Lawrence,743,38,02/26/1991,Black,Harris
+37,8,Male,Hardin,Texas,Derrick,Mikel,701,33,07/18/1990,White,Harris
+36,14,Male,Jefferson,Kentucky,Smith,James,763,37,06/26/1990,Black,Harris
+35,6,Male,Jefferson,Texas,Anderson,Johnny,732,30,05/17/1990,White,Jefferson
+34,9,Male,Harris,Texas,Butler,Jerome,852,54,04/21/1990,Black,Harris
+33,9,Male,Nueces,Texas,De Luna,Carlos,744,27,12/07/1989,Hispanic,Nueces
+32,12,Male,Hamilton,Ohio,Paster,James,752,44,09/20/1989,White,Harris
+31,9,Male,Harris,Texas,McCoy,Stephen,769,40,05/24/1989,White,Harris
+30,9,Male,Wharton,Texas,King,Leon,624,44,03/22/1989,Black,Harris
+29,11,Male,Lafayette Parish,Louisiana,Landry Sr.,Raymond,738,39,12/13/1988,Black,Harris
+28,NA,Male,Martin,Texas,Franklin,Donald,546,37,11/03/1988,Black,Nueces
+27,NA,Male,Hardin,California,Streetman,Robert,746,27,01/07/1988,White,Hardin
+26,NA,Male,NA,NA,Starvaggi,Joseph,586,34,09/10/1987,White,Montgomery
+25,9,Male,Bexar,Texas,Thompson,John,610,32,07/08/1987,White,Bexar
+23,NA,Male,Leon,Texas,Williams,Anthony,619,27,05/28/1987,Black,Harris
+22,12,Male,Hidalgo,Texas,Moreno,Eliseo,759,27,03/04/1987,Hispanic,Fort Bend
+19,10,Male,Dallas,Texas,Evans,Michael,608,30,12/04/1986,Black,Dallas
+17,9,Male,Dallas,Texas,Smith,Larry,643,30,08/22/1986,Black,Dallas
+16,5,Male,Kerr,Texas,Woolls,Randy,646,36,08/20/1986,White,Tom Green
+13,NA,Male,Nueces,Texas,Pinkerton,Jay,686,24,05/15/1986,White,Nueces
+12,NA,Male,Harris,Texas,Barney,Jeffery,714,28,04/16/1986,White,Harris
+11,NA,Male,Harris,Texas,Bass,Charles,662,30,03/12/1986,White,Harris
+10,NA,Male,Potter,Texas,Rumbaugh,Charles,555,28,09/11/1985,White,Potter
+9,NA,Male,Tarrant,Texas,Porter,Henry,551,43,07/09/1985,Hispanic,Tarrant
+8,NA,Male,Tarrant,Texas,Milton,Charles,628,34,06/25/1985,Black,Tarrant
+7,NA,Male,Bexar,Texas,De La Rosa,Jesse,713,24,05/15/1985,Hispanic,Bexar
+6,NA,Male,NA,NA,Morin,Stephen,712,34,03/13/1985,White,Jefferson
+5,NA,Male,NA,NA,Skillern,Doyle,518,49,01/16/1985,White,Lubbock
+4,NA,Male,Bell,Texas,Barefoot,Thomas,621,39,10/30/1984,White,Bell
+3,NA,Male,NA,NA,O Bryan,Ronald,529,39,03/31/1984,White,Harris
